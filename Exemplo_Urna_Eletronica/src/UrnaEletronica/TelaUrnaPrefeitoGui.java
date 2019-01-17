@@ -661,7 +661,7 @@ public class TelaUrnaPrefeitoGui extends javax.swing.JFrame {
             jLabel4.setText("NOME: Médica");
             //nunca esquecer do getClass().getResource(caminho da imagem aqui)
             
-            jLabel3.setIcon(new ImageIcon(getClass().getResource("Prefeito/medica.jpg")));
+            jLabel3.setIcon(new ImageIcon(getClass().getResource("Prefeito/Medica.jpg")));
                         
         }
         else if (CandidatoVerificar!=V1 && CandidatoVerificar!=V2 && CandidatoVerificar!=V3 ){
